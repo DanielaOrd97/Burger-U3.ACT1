@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\administrador\\agregar.html",
+      "PackagePath": "staticwebassets\\administrador\\agregar.html"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\administrador\\editar.html",
+      "PackagePath": "staticwebassets\\administrador\\editar.html"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\administrador\\eliminar.html",
+      "PackagePath": "staticwebassets\\administrador\\eliminar.html"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\administrador\\index.html",
+      "PackagePath": "staticwebassets\\administrador\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\administrador\\menu.html",
+      "PackagePath": "staticwebassets\\administrador\\menu.html"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\administrador\\promocion.html",
+      "PackagePath": "staticwebassets\\administrador\\promocion.html"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\administrador\\quitarpromocion.html",
+      "PackagePath": "staticwebassets\\administrador\\quitarpromocion.html"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\estilos.css",
+      "PackagePath": "staticwebassets\\estilos.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\1.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\10.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\11.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\12.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\2.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\3.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\4.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\5.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\6.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\7.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\8.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\hamburguesas\\9.png",
+      "PackagePath": "staticwebassets\\hamburguesas\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\images\\burger.png",
+      "PackagePath": "staticwebassets\\images\\burger.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\images\\hamb1.jpg",
+      "PackagePath": "staticwebassets\\images\\hamb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\Documents\\U3. Act 1\\Unidad3.Act1\\wwwroot\\images\\neat.png",
+      "PackagePath": "staticwebassets\\images\\neat.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Unidad3.Act1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Unidad3.Act1.props",
+      "PackagePath": "build\\Unidad3.Act1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Unidad3.Act1.props",
+      "PackagePath": "buildMultiTargeting\\Unidad3.Act1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Unidad3.Act1.props",
+      "PackagePath": "buildTransitive\\Unidad3.Act1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
